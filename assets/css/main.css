@@ -1673,3 +1673,9 @@ input, select, textarea {
 	margin-top: 0;
 	margin-bottom: 0;
 }
+
+@media screen and (max-width: 500px){
+	#about embed {
+		width: 400px;
+	}
+} 
